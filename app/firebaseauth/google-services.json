@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101627868002",
+    "project_id": "ru-mirea-bykonya-lesson7",
+    "storage_bucket": "ru-mirea-bykonya-lesson7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101627868002:android:fb00f17df7d53c80afb23b",
+        "android_client_info": {
+          "package_name": "com.mirea.bykonyaia.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFieiTC9gkeHURwk6r3qOpt6zVbynU6cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
